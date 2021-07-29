@@ -3,7 +3,7 @@
 To build jar, type:
 
 ```script
-gradelw build
+gradlew build
 ```
 
 To create docker container, type:
